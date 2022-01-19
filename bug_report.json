@@ -1,0 +1,12 @@
+{
+	"bug_report": {
+		"id": 1,
+		"Title": "Form: The form is not shown its type after loading the webpage",
+		"Preconditions": "User is on https://itcareer.pythonanywhere.com",
+		"STR": "Launch Google Chrome, Enter web url",
+		"ER": "The form is shown Registration form after loading the webpage",
+		"AR": "The form is shown ITCareerToday web form after loading the webpage",
+		"Severity": "Critical",
+		"Priority": "High"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"skills": {
+		"theory": "SDLC_STLC_Test_documentation_Types_of_testing",
+		"testing_tools": "Postman_Charles_Fiddler_Jmeter",
+		"database": "SQL_PostgreSQL_DBeaver",
+		"mobile_testing": "Android_Studio_ADB",
+		"programming_language": "Python"
+	}
+}

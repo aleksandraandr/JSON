@@ -2,8 +2,8 @@
 	"person": {
 		"name": "Alexandra",
 		"surname": "Andreichikova",
-		"age": "35",
-		"pets_number": "1",
-		"salary": "600"
+		"age": 35,
+		"pets_number": 1,
+		"salary": 600
 	}
 }
